@@ -444,6 +444,8 @@
         "DISTILLER_COLLAPSE_COMMENT": "Thu gọn %s",
         "DISTILLER_VIDEO_ENTITY": "bình luận",
         "DISTILLER_BACKSTAGE_ENTITY": "bài đăng",
+        "DISTILLER_YOUTUBE_RANKED_STREAMS": "Nổi bật",
+        "DISTILLER_YOUTUBE_NEWEST_STREAMS": "Mới nhất",
         "DISLIKE_SINGULAR": "Không thích",
         "VLTURBO_AUTOUPDATE_SUCCESS1": "[TurboLauncher] Vorapis V3 của bạn đã tự động cập nhật thành công.",
         "VLTURBO_AUTOUPDATE_SUCCESS2": "<<Bấm vào đây để tải lại trang.>>"
